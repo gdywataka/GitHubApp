@@ -11,7 +11,11 @@
     tools:context="com.example.labdesenvolvimento.githubapp.MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Porjeto Masssa"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="normal|bold|italic"
+        android:textAllCaps="false" />
 </RelativeLayout>
